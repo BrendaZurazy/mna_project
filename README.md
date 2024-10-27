@@ -1,6 +1,6 @@
 ![Project Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png)
 
-# 🧠 Maestría en Inteligencia Artificial Aplicada
+# 🧠 MNA
 # Proyecto Integrador
 
 
